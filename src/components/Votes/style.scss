@@ -1,0 +1,14 @@
+.votes {
+    width: 50px;
+    height: 60px;
+    color: #666;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    &__count {
+        font-size: 14px;
+    }
+    &__up, &__down {
+        cursor: pointer;
+    }
+}

@@ -1,0 +1,33 @@
+.comments-handler {
+    &__count {
+        line-height: 14px;
+        font-size: 14px;
+        font-weight: 700;
+        margin-top: 5px;
+        margin-right: 10px;
+        display: inline-block;
+        cursor: pointer;
+    }
+    &__add {
+        font-size: 11px;
+        display: inline-block;
+        color: blue;
+        cursor: pointer;
+    }
+}
+.add-comment-modal {
+    padding: 20px;
+    text-align: center;
+    width: 600px;
+    background-color: white;
+    margin: 100px auto 0 auto;
+    height: 400px;
+    textarea {
+        width: 400px;
+        height: 200px;
+        display: block;
+        margin: 0 auto 20px auto;
+        resize: none;
+    }
+    @import "../../assets/stylesheets/form.scss";
+}

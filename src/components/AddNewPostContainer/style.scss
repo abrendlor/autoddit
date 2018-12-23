@@ -1,0 +1,10 @@
+.add-new-post {
+    width: 600px;
+    margin: 0 auto;
+
+    h1 {
+        text-align: center;
+    }
+
+    @import "../../assets/stylesheets/form.scss";
+}

@@ -1,0 +1,17 @@
+.posts {
+    margin-top: 50px;
+    h1, h4 {
+        width: 600px;
+        margin: 0 auto 30px auto;
+        text-align: center;
+    }
+    &__list {
+        width: 600px;
+        margin: 0 auto;
+    }
+    &__add-new {
+        text-align: center;
+        display: block;
+        margin-bottom: 30px;
+    }
+}

@@ -1,0 +1,23 @@
+.post {
+    &__data {
+        min-height: 60px;
+        vertical-align: top;
+        width: calc(100% - 160px);
+        padding-left: 5px;
+        box-sizing: border-box;
+        font-size: 0;
+        display: inline-block;
+        .text {
+            font-size: 16px;
+            color: #333;
+            width: 100%;
+            white-space: nowrap;
+        }
+        .link {
+            font-size: 18px;
+            color: blue;
+            line-height: 18px;
+            text-decoration: none;
+        }
+    }
+}

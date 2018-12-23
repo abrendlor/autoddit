@@ -1,0 +1,76 @@
+{
+    "isAuthenticated": false,
+    "Username": "",
+    "Posts": [
+        {
+            "postId": 1,
+            "parentCommentId": null,
+            "text": "Epic games dominates the battle royale genre",
+            "link": "https://www.forbes.com/sites/erikkain/2018/07/18/fortnite-battle-royale-has-made-over-1-billion-as-it-completely-dominates-video-game-streaming/#2d28ebca15ce",
+            "imageURL": "https://i.kinja-img.com/gawker-media/image/upload/s--ESmW0FrY--/c_scale,f_auto,fl_progressive,q_80,w_800/rishq5agzidzffwxn6dh.jpg",
+            "submissionDate": "Apr 28, 2018 08:50",
+            "submissionUser": "reactfan",
+            "votesCount": 0,
+            "comments": [
+                {
+                    "postId": 1,
+                    "parentCommentId": null,
+                    "commentId": 1,
+                    "text": "Comment 200",
+                    "submissionDate": "Aug 29, 2018 11:59",
+                    "submissionUser": "reactfan",
+                    "votesCount": 10
+                },
+                {
+                    "postId": 1,
+                    "parentCommentId": 1,
+                    "commentId": 2,
+                    "text": "Comment 300",
+                    "submissionDate": "Aug 29, 2018 11:59",
+                    "submissionUser": "reactfan",
+                    "votesCount": 100
+                },
+                {
+                    "postId": 1,
+                    "parentCommentId": 1,
+                    "commentId": 3,
+                    "text": "comment 400",
+                    "submissionDate": "Aug 29, 2018 11:59",
+                    "submissionUser": "reactfan",
+                    "votesCount": 1001
+                },
+                {
+                    "postId": 1,
+                    "parentCommentId": null,
+                    "commentId": 4,
+                    "text": "Comment 500",
+                    "submissionDate": "Aug 29, 2018 11:59",
+                    "submissionUser": "reactfan",
+                    "votesCount": 20301
+                }
+                ,
+                {
+                    "postId": 1,
+                    "parentCommentId": 4,
+                    "commentId": 5,
+                    "text": "Comment 600",
+                    "submissionDate": "Aug 29, 2018 11:59",
+                    "submissionUser": "reactfan",
+                    "votesCount": 22099
+                }
+            ]
+        },
+        {
+            "postId": 2,
+            "parentCommentId": null,
+            "text": "Battlfield V battle royale will be released during 2019",
+            "link": "https://www.windowscentral.com/battlefield-v-battle-royale-launches-march-2019",
+            "imageURL": "https://cdn.gearnuke.com/wp-content/uploads/2018/05/battlefield-v-reveal-logo-768x432.jpg",
+            "submissionDate": "Aug 29, 2018 11:59",
+            "submissionUser": "reactfan",
+            "votesCount": 101499,
+            "comments": []
+
+        }
+    ]
+}
